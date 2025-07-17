@@ -14,7 +14,7 @@
 						"id": "9dad3ce9-adcb-4c68-9519-9499c661bbd0",
 						"exec": [
 							"",
-							"pm.test(\"Stats code is 200\", function () {",
+							"pm.test(\"Statuss codee is 200\", function () {",
 							"    pm.response.to.have.status(200);",
 							"});",
 							" ",
