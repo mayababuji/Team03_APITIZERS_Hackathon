@@ -468,7 +468,7 @@
 							"    pm.response.to.have.status(200);",
 							"});",
 							"// 2. Response is an object",
-							"pm.test(\"Response is an object\", () => {",
+							"pm.test(\"Responses is an object\", () => {",
 							"    let data = pm.response.json();",
 							"    pm.expect(typeof data).to.equal(\"object\");",
 							"});",
